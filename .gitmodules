@@ -1,0 +1,6 @@
+[submodule "jserial-java"]
+	path = jserial-java
+	url = https://github.com/ljbo82/jserial-java.git
+[submodule "jserial-jni"]
+	path = jserial-jni
+	url = https://github.com/ljbo82/jserial-jni.git
